@@ -6,10 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivang-6" alt="shivang-6" /></a> </p>
 
 - 🔭 I’m currently working on [BestBuy](https://github.com/Shivang-6/BestBuy)
+  
+- 🔭 I’m also currently working on [MaggieMart](https://github.com/kalviumcommunity/S85_Maggie_mart)
 
 - 🌱 I’m currently learning **CPP,Java,MERN**
-
-- also on [MaggieMart](https://github.com/kalviumcommunity/S85_Maggie_mart)
 
 - 📫 How to reach me **iamshivanggautam@gmail.com**
 
