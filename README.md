@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [BestBuy](https://github.com/Shivang-6/BestBuy)
   
-- 🔭 I’m also currently working on [MaggieMart](https://github.com/kalviumcommunity/S85_Maggie_mart)
+- 🔭 I’m also currently working on [MaggieMart](https://github.com/kalviumcommunity/S85_Maggie_mart) and[CampusKart](https://github.com/kalviumcommunity/S85_SHIVANG_CAPSTONE_CAMPUSKART)
 
 - 🌱 I’m currently learning **CPP,Java,MERN**
 
