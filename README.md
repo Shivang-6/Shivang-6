@@ -4,10 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivang-6&label=Profile%20views&color=0e75b6&style=flat" alt="shivang-6" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivang-6" alt="shivang-6" /></a> </p>
-
-- 🔭 I’m currently working on [BestBuy](https://github.com/Shivang-6/BestBuy)
   
-- 🔭 I’m also currently working on [MaggieMart](https://github.com/kalviumcommunity/S85_Maggie_mart) and[CampusKart](https://github.com/kalviumcommunity/S85_SHIVANG_CAPSTONE_CAMPUSKART)
+- 🔭 I’m also currently working on [BestBuy](https://github.com/Shivang-6/BestBuy), [MaggieMart](https://github.com/kalviumcommunity/S85_Maggie_mart) and[CampusKart](https://github.com/kalviumcommunity/S85_SHIVANG_CAPSTONE_CAMPUSKART)
 
 - 🌱 I’m currently learning **CPP,Java,MERN**
 
