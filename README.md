@@ -7,7 +7,7 @@
 
 - Projects - [BestBuy](https://github.com/Shivang-6/BestBuy), [MaggieMart](https://github.com/kalviumcommunity/S85_Maggie_mart)
 
-- 🔭 I’m currently working on [AI Trip Planner]("https://github.com/Shivang-6/AI_Trip_planner.git") and[CampusKart](https://github.com/kalviumcommunity/S85_SHIVANG_CAPSTONE_CAMPUSKART)
+- 🔭 I’m currently working on [AI Trip Planner](https://github.com/Shivang-6/AI_Trip_planner.git) and[CampusKart](https://github.com/kalviumcommunity/S85_SHIVANG_CAPSTONE_CAMPUSKART)
 
 - 🌱 I’m currently learning **CPP,Java,Python,MERN**
 
